@@ -6,7 +6,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.Writeline("Hello World! Slava Ukraine")
+            Console.Writeline("Hello World! Slava Ukraine, AZOV <3")
         }
     }
 }
